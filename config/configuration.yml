@@ -1,7 +1,7 @@
 defaults:
-  form_path: '/rails-girls-lodz-2016'
+  form_path: '/application-form'
   registration:
     from: 23.05.2016
-    to: 25.05.2016
+    to: 26.05.2016
   reviewers:
     - idengager
