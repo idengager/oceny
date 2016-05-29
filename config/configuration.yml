@@ -8,3 +8,7 @@ defaults:
     - gosiaciesla
     - agatasalska
     - bezmasla
+  registration_opens: "June 30th"
+  registration_closes: "June 7th"
+  review_starts: "June 8th"
+  acceptance_emails: "June 10th"
