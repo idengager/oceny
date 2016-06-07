@@ -2,7 +2,7 @@ defaults:
   form_path: '/application-form'
   registration:
     from: 30.05.2016
-    to: 08.06.2016
+    to: 07.06.2016
   reviewers:
     - idengager
     - gosiaciesla
