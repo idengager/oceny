@@ -8,6 +8,7 @@ defaults:
     - gosiaciesla
     - agatasalska
     - bezmasla
+    - kosmial
   registration_opens: "June 30th"
   registration_closes: "June 7th"
   review_starts: "June 8th"
